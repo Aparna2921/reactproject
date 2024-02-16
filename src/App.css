@@ -1,0 +1,345 @@
+
+*{
+  margin: 0 auto;
+}
+
+.name{
+  text-align: center;
+}
+
+h1{
+  margin: 20px;
+}
+
+.keerthi img{
+  width: 120px;
+  height:115px ;
+  border-radius: 50%;
+}
+
+.login{
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+   border: 5px solid white;
+   border-radius: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 500px;
+   height: 500px;
+   flex-direction: column;
+}
+
+.user{
+  color:#240747;
+}
+
+.lgin{
+  color: #ff347f;
+}
+
+.page{
+  color:#005689;
+}
+
+input{
+  width: 131px;
+  height: 30px;
+  margin: 19px;
+}
+
+button{
+   background-color: #233142;
+     color: #eaf6f6;
+     width: 85px;
+   height: 31px;
+}
+
+/* desktoop */
+
+.agrculture img{
+  width: 100%;
+  height: 690px;
+}
+
+.parent{
+  position: absolute;
+  left: 49%;
+  top:50%;
+  transform: translate(-50%,-50%);
+}
+
+.header-part1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo img{
+  width: 160px;
+  height: 100px;
+}
+
+.logo2 img{
+  width: 356px;
+  height: 124px;
+}
+
+ .h1{
+  text-align: center;
+  color:#a52a2a;
+ }
+
+.flex{
+  display: flex;
+  justify-content: space-around;
+}
+
+.life{
+  text-align: center;
+}
+
+.main-part-2{
+  display: flex;
+  justify-content: space-between;
+  padding: 60px
+}
+
+.crop img{
+  width: 100%;
+}
+
+.crop{
+  width: 23%;
+  color:black;
+}
+
+h2{
+  color:#013220;
+  font-style: italic;
+}
+
+.food img{
+width: 440px;
+}
+
+.bar li a{
+  color: #240747;
+  padding: 20px;
+}
+
+.arrows{
+  margin: 40px;
+}
+.main-part3{
+  display: flex;
+  justify-content: space-between;
+      padding: 45px;
+      background-color: #dff0df;
+}
+ /* .footer-part{
+  display: flex;
+  justify-content: space-between;
+  background-color:#3d0c02;
+  padding: 15px;
+} */
+
+.footer-part{
+  display: flex;
+  justify-content: space-between;
+  background-color:#4e4140;
+
+}
+.icons i{
+  padding: 17px;
+  color: white;
+  font-size: 30px;
+}
+i{
+  color:black;
+} 
+.span{
+  color: #3BB143;
+}
+.reforms{
+  color: #8b4513;
+}
+/* .footer-last{
+  /* text-align: center;
+  background-color: #3d0c02; */
+
+
+.footer-last{
+  display: flex;
+  justify-content: space-between;
+  background-color:#4e4140;
+}
+  .icons-para {
+ color: white;
+}
+.para2{
+  color: white;
+}
+i{
+  color: white;
+}
+.h3{
+  color:white;
+}
+.arrows i{
+  color:black;
+}
+
+.icons-para i{
+  margin: 10px;
+}
+
+/* demo */
+
+ul li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 14px;
+  font-size: 15px;
+ 
+}
+li a{
+  text-decoration: none;
+   padding: 15px;
+   color: white;
+   
+}
+.header-part{
+  display: flex;
+  justify-content: space-between;
+background-color: #f69d3c;
+margin-bottom: 45px;
+}
+
+.nav-bar{
+  display: flex;
+}
+.custmer img{
+  width: 100%;
+  height: 310px;
+}
+.main{
+  position: relative;
+}
+.main-part{
+  position: absolute;
+  right: 332px;
+  top: 73px;
+
+}
+
+.display{
+  display: flex;
+  justify-content: space-between;
+  border-radius: 50%;
+  position: absolute;
+  top: 248px;
+  right: 208px;
+}
+
+
+.first{
+  background-color: whitesmoke;
+  height: 316px;
+  width: 455px;
+  
+  margin-left: 10px;
+ 
+}
+
+.second{
+  background-color: whitesmoke;
+  text-align: center;
+  height: 316px;
+  width: 455px;
+}
+.hub{
+  color: #005689;
+}
+.spot{
+  color:#ff347f;
+}
+
+
+/* home */
+
+
+.farmerimg img{
+  width: 890px;
+  height: 460px;
+}
+.farmerimg{
+  text-align: center;
+}
+
+
+/* .home{
+  text-align: center;
+} */
+
+
+/* .flex-proprty{
+  display: flex;
+} */
+.h1{
+  text-align: center;
+}
+.features{
+  padding: 10px;
+}
+.h3{
+  padding: 15px;
+  font-size: 37px;
+}
+h5{
+  font-size: 20px;
+}
+
+h4{
+  color:crimson;
+}
+
+.round img {
+  border-radius: 50%;
+  width: 250px;
+  margin: 23px;
+}
+ .round{
+  display: flex;
+  justify-content: space-around;
+}
+.mainparts2{
+  padding: 40px;
+}
+.mainparts{
+  text-align: center;
+  border: 2px solid#16181a;
+  
+}
+.aboutus{
+ text-align: center;
+ padding: 60px;
+}
+.sign{
+  text-align: right;
+  padding: 97px;
+}
+.sign1{
+  text-decoration: underline;
+  padding: 12px;
+    color: black;
+    font-size: 24px;
+    font-style: oblique;
+}
+.sign2{
+  color: darkred;
+  font-size: 20px;
+  font-style: italic;
+  
+
+}
+
